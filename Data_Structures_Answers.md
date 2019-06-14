@@ -41,4 +41,4 @@ Since we have to save each character, the space complexity is:
 O(n * m) where:
  * n is the length of the list of names
  * m is the average length of the name in this list
- 
+But since m is constant, we say space complexity is O(n) 
