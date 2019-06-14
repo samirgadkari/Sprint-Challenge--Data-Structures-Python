@@ -58,6 +58,8 @@ class SuffixTree:
         return False
 
 
+# Suffix Tree test code here
+#
 # tree = SuffixTree()
 # for s in ['aabc', 'abc', 'cba']:
 #     tree.insert_string(s)
